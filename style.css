@@ -1,0 +1,14 @@
+#btn-org-1,
+#btn-org-2,
+#btn-org-3,
+#btn-org-4 {
+    background-color: #FFAC1C;
+    color: white;
+}
+
+#btn-org-1:hover,
+#btn-org-2:hover,
+#btn-org-3:hover,
+#btn-org-4:hover {
+    background-color: #FFBF00;
+}
